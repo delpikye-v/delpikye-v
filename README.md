@@ -1,29 +1,77 @@
-- 👋 Hi, I’m Delpi Kye
-- 👀 I’m interested in ... (everything code)
-- 🔭 I’m currently working at ..
-- 💻 Most used line of code git commit -m "OK I'm fine!"
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ... (delpikye)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- A little code every day ...
+# 👋 Hi, I’m Delpi Kye  
 
-<br />
-<a href="https://www.facebook.com/dk.shinz">
-<img id="img" draggable="false" class="style-scope yt-img-shadow" alt="" height="24" width="24" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEU6VZ////82Up4zUJ1UbKx4ibswTpyMmsQ5V6EtTJupss8nSJnN0+WVosgqSpo4U56eqcyDksDj5vBwgbb3+PxFXqNabqt9jb3S2OhidbC9xdy3v9l0hLjZ3etLY6bq7fTEyt4dQpdJYqekrs2uttK97JEgAAADFUlEQVR4nO3c2XLiMBBAUUZmM3IsFsNgSIAk/P83TsLzjCNbI3c3de9rqlw+BV7VZDIhIiIiIiIiIiIiIiIiIlJeCM4VxbzsrJDey8G50s/3h91ss3jp7LdJYii8262rbfPr545eem/753y9qWJwjypzwqJuT7E6i0JX7459fOaEvn3r5zMmLPy5r8+W0L9Gn15MCkO9GuAzJHSh9xFoS1hcrsOAVoTzdsghaEhYTAcDbQjdfjjQhDAshx6DRoShrhKAFoR+nQI0ICzaJKABYZlyEFoQ1p9pQPVCd0m4UJgQ+lsiULvQXVKB2oW+1ysZg8KwTAYqF5ZpF3sDQr99cqFLvJ3RL0y+2usXDnw1Y0YYUh58TQiL3X8Aql57Kvschs3xdF/9pftC8fphj3vSalZ6X5tbA/axJ5rtzhdBem+HVEeeaKq55s+po1DHAW/vJj+/yfdifdxX1OYX9LuwjxIejH5Fv3LTGOBJ8eXup+KEH056P4cXJby+S+9mQlHCUy29mwlFCddz6d1MKEq4sXsmjRTOEGoOIUL9IUSoP4QI9YcQof4QItQfQoT6Q4hQR27+78qYucRX37GFR7Jrb65ddBQz1Hbv2sCjpSixvEcgEitlhcN+cNenRnZxagThm+wK6ghC4TXiEYSr8tmFwstvIwhb2XX+EYR72St+fmEj6htDuBW+a8svPArPauQXnp9e+CI8jZJfKP38mF8ofDnML2wuwsOn2YVX6ena7MKt9PRpduHt6YUr6eHM7MKF9HBmduGr9OvU7MKp9BR4bmEjDcwulJ9zzy2U/+1hbqH0s1N+4afsq8QRhPKT/LmFB+kb7+xC6Tua7ELhdacRhOLPTtmFCv7ZQOY14LP4xWISlh2FqFkM17UF8VPpF7Hjb3HTJl2nSwXAzp5jnqYrhAj1hxCh/hAi1B9ChPpDiFB/CBHqDyFC/SFEqD+ECPWHEKH+ECLUH0KE+kOIUH8IEeoPIUL9IUSoP4QI9YcQof4QItQfQoT6Q4hQfwgR6g8hQv0hRKg/hAj1hxCh/hAi1B9ChD36A+1ASVvVoq0WAAAAAElFTkSuQmCC">
-<span style="padding-right: 10px"></span>
-</a>
+I’m a **Software Engineer** passionate about building **scalable web applications, frontend architectures, and developer tooling**.  
+With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, I enjoy creating tools and libraries that improve developer experience.  
 
-<a href="https://www.buymeacoffee.com/delpikye">
-<img id="img" draggable="false" class="style-scope yt-img-shadow" alt="" height="24" width="24" src="https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTYA25hTtHy1ksJiJK7lhwxM3wjBrsOUIkXjq_L6NJJ-lcQO7aHgKthnLjaO4j2udijaohQ8uNQJ9BxH8NRHkC-KFKfTQGjKaKBLPsX-vqdOO1eke3iLvt-yQ">
-<span height="24px">Buy me a coffee, thank.</span>
-</a>
+---
 
-<br />
+## 🚀 Tech Stack & Expertise  
 
-![sg-vn](https://visitor-badge.glitch.me/badge?page_id=delpikye-v)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ★★★★★  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ★★★★☆  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ★★★★☆  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ★★★★☆  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ★★★★☆  
 
-<!---
-delpikye-v/delpikye-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ★★★★★  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ★★★★☆  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ★★★★☆  
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ★★★★☆  
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) ★★★★☆  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ★★★★☆  
+
+**Backend & API**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ★★★★☆  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ★★★★☆  
+![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white) ★★★★☆  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ★★★★☆  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ★★★★☆  
+![gRPC](https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white) ★★★★☆  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ★★★★☆  
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ★★★★☆  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ★★★★☆  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ★★★★☆  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) ★★★★☆  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ★★★★☆  
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ★★★★☆  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ★★★★☆  
+
+---
+
+## 📚 Currently Learning / Exploring  
+- 🧠 **AI & Machine Learning with Python** (FastAPI, TensorFlow, LangChain).
+- ☁️ **Serverless Architectures** with **AWS Lambda + DynamoDB**.  
+- 🔗 **Microservices & Event-driven systems** using **Kafka & gRPC**.  
+- 🧩 **Domain-Driven Design (DDD)** and **Clean Architecture** with Go.  
+- 🌐 **Vue 3 + Vite** for modern frontend ecosystems.  
+
+---
+
+## 📌 Highlighted Projects (Published on NPM)  
+- **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.  
+- **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
+- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.  
+- **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.  
+- **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.  
+- **[react-mui-tooltip-ifz](https://www.npmjs.com/package/react-mui-tooltip-ifz)** – Conditional tooltip for Material-UI.  
+- **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.  
+- **[rc-tc-ifm](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.  
+…and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+---
+
+## 🌐 Connect with Me  
+- GitHub: [@delpikye](https://github.com/delpikye-v)  
+- NPM: [@delpikye](https://www.npmjs.com/~delpikye)  
+
+☕ [Buy me a coffee](https://www.buymeacoffee.com/delpikye)  
+
+---
+
+## ✨ Fun Fact  
+> “A little code every day keeps the bugs away.” 🐞
