@@ -26,16 +26,16 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ★★★★☆  
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ★★★★☆  
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white) ★★★★☆  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ★★★★☆  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ★★★★☆  
-![gRPC](https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white) ★★★★☆  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ★★★★☆  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ★★★☆☆  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ★★★☆☆  
+![gRPC](https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white) ★★★☆☆  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ★★★☆☆  
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ★★★★☆  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ★★★★☆  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ★★★★☆  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) ★★★★☆  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ★★★☆☆  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ★★★☆☆  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) ★★★☆☆  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ★★★★☆  
 
 **Cloud & DevOps**  
@@ -46,22 +46,22 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 
 ## 📚 Currently Learning / Exploring  
 - 🧠 **AI & Machine Learning with Python** (FastAPI, TensorFlow, LangChain).
-- ☁️ **Serverless Architectures** with **AWS Lambda + DynamoDB**.  
-- 🔗 **Microservices & Event-driven systems** using **Kafka & gRPC**.  
+- ☁️ **AWS Architectures**.  
+- 🔗 **Microservices & Event-driven systems**.  
 - 🧩 **Domain-Driven Design (DDD)** and **Clean Architecture** with Go.  
-- 🌐 **Vue 3 + Vite** for modern frontend ecosystems.  
 
 ---
 
 ## 📌 Highlighted Projects (Published on NPM)  
+- **[react-loader-z](https://www.npmjs.com/package/react-loader-z)** – Collection and make some loaders.  
+- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.  
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.  
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
-- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.  
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.  
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.  
 - **[react-mui-tooltip-ifz](https://www.npmjs.com/package/react-mui-tooltip-ifz)** – Conditional tooltip for Material-UI.  
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.  
-- **[rc-tc-ifm](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.  
+- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.  
 …and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
 ---
 
