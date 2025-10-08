@@ -6,16 +6,19 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 ---
 
 ## 📌 Highlighted Projects (Published on NPM)  
-- **[react-loader-z](https://www.npmjs.com/package/react-loader-z)** – Collection and make some loaders.  
-- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.  
+- **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.  
+- **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.  
+- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.  
+- **[react-neo-scrollbar-z](https://www.npmjs.com/package/react-neo-scrollbar-z)** – React wrapper for `perfect-scrollbar`. Advance  
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.  
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.  
 - **[react-mui-tooltip-ifz](https://www.npmjs.com/package/react-mui-tooltip-ifz)** – Conditional tooltip for Material-UI.  
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.  
-- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.  
-…and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.
+- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus
+……and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀  
 ---
 
 ## 🚀 Tech Stack & Expertise  
