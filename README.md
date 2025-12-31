@@ -5,25 +5,24 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 
 ---
 
-## 📌 Highlighted Projects (Published on NPM)  
-- **[mfe-runtime-z](https://www.npmjs.com/package/mfe-runtime-z)** – Framework-agnostic micro-frontend runtime (Make color)
-- **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?   
-- **[react-slot-engine-z](https://www.npmjs.com/package/react-slot-engine-z)** – A scoped slot and plugin engine for composing React UIs dynamically   
-  
+## 📌 Highlighted
+- **[@delpi/restruct](https://www.npmjs.com/package/@delpi/restruct)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.  
+- **[@delpi/mfe-zx](https://www.npmjs.com/package/@delpi/mfe-zx)** – Framework-agnostic micro-frontend runtime (makecolor - testing)  
+- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.  
+- **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?  
+- **[react-slot-engine-z](https://www.npmjs.com/package/react-slot-engine-z)** – A scoped slot and plugin engine for composing React UIs dynamically    
 - **[react-auto-memo-z](https://www.npmjs.com/package/react-auto-memo-z)** – Automatically apply memo when needed.   
 - **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.   
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.
-
 - **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.  
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.  
-  
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.  
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.  
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.  
 - **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.
+- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.
   
-- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.  
 …… and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
 
 ---
