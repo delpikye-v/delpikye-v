@@ -6,11 +6,12 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 ---
 
 ## 📌 Highlighted
-- **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.  
-- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
-- **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.  
-- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing)  
-- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.
+- **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.   
+- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
+- **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state management with FSM, forms, async atoms.   
+- **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
+- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).   
+- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.   
 
 ## 📌 Base
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.
