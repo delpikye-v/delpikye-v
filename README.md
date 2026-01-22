@@ -10,14 +10,15 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
 - **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state management with FSM, forms, async atoms.   
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
-- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).   
-- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.   
+- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).    
+- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
 
 ## 📌 Base
+- **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
+- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.   
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.
 - **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.  
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.  
-- **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.  
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.  
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.
 - **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?  
@@ -25,7 +26,6 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.   
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.  
 - **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.
-- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.
   
 …… and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
 
