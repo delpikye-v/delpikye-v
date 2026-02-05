@@ -12,14 +12,13 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.   
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
-- 
+- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
 - **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).   
 
 ## 📌 Base
 - **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.    
-- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
 - **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.      
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.      
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.    
