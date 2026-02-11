@@ -14,9 +14,10 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
-- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).   
+- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
 
 ## 📌 Base
+- **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.
 - **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.    
 - **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.      
