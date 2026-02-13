@@ -12,6 +12,9 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.   
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
+- **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.   
+- **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.  
+- **[react-lifecycle-z](https://www.npmjs.com/package/react-lifecycle-z)** – Tiny declarative lifecycle hook utilities for React. Mount, update, unmount — expressed clearly.   
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
 - **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
