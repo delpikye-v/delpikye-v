@@ -16,6 +16,7 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.  
 - **[react-lifecycle-z](https://www.npmjs.com/package/react-lifecycle-z)** – Tiny declarative lifecycle hook utilities for React. Mount, update, unmount — expressed clearly.   
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
+- **[react-modal-e2z](https://www.npmjs.com/package/react-modal-e2z)** – A lightweight, headless, fully controlled React modal built on portals. Hook-first, composable, SSR-safe.    
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
 - **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
 
