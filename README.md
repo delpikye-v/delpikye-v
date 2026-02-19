@@ -5,15 +5,18 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 
 ---
 
-## 📌 Highlighted
+## 📌 Highlighted - Framework/Architect
 - **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.   
-- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
 - **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state managemen, async atoms.   
-- **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.   
+- **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
-- **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
-- **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.   
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.  
+- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
+
+## 📌 Highlighted
+- **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
+- **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.
+- **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Lightweight, customizable React tooltip component with hover, click, focus and manual trigger support. Built with TypeScript.
 - **[react-lifecycle-z](https://www.npmjs.com/package/react-lifecycle-z)** – Tiny declarative lifecycle hook utilities for React. Mount, update, unmount — expressed clearly.   
 - **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
 - **[react-modal-e2z](https://www.npmjs.com/package/react-modal-e2z)** – A lightweight, headless, fully controlled React modal built on portals. Hook-first, composable, SSR-safe.    
@@ -21,20 +24,21 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
 
 ## 📌 Base
-- **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.
+- **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.   
+- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Truncates text with ellipsis and shows tooltip only when content overflows..    
 - **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
 - **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.    
 - **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.      
 - **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.      
 - **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.    
 - **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.       
-- **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Tooltip wrapper for React elements.    
 - **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?      
 - **[react-auto-memo-z](https://www.npmjs.com/package/react-auto-memo-z)** – Automatically apply memo when needed.       
 - **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.       
-- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Tiny React utility library for tooltips & conditions.    
-  
-…… and more on [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+
+
+## 📌 More
+…… [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
 
 ---
 
