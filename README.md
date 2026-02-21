@@ -10,10 +10,11 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state managemen, async atoms.   
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
-- **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.  
+- **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
+- **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
 - **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
 
-## 📌 Highlighted
+## 🧩 Highlighted
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
 - **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Lightweight, customizable React tooltip component with hover, click, focus and manual trigger support. Built with TypeScript.
@@ -23,7 +24,7 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
 - **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
 
-## 📌 Base
+## 🧱 Base
 - **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.   
 - **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Truncates text with ellipsis and shows tooltip only when content overflows..    
 - **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
@@ -37,8 +38,58 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.       
 
 
-## 📌 More
+## 🚀 More
 …… [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+
+---
+
+## 🧠 Architecture – Frontend
+
+This ecosystem keeps **business logic outside React**, fully orchestrated and predictable.
+
+> UI renders. Logic orchestrates. Runtime guarantees determinism.
+
+```text
+React UI
+   │
+   ▼
+logic-runtime-react-z
+   │
+   ▼
+chrono-state-z
+   │
+   ▼
+intentx-core-z
+```
+
+- **logic-runtime-react-z** – React bindings layer  
+- **chrono-state-z** – Intent-first state runtime (atoms, computed, async, effects)  
+- **intentx-core-z** – Deterministic reactive scheduler  
+
+---
+
+### 🔄 Intent Flow
+
+```text
+UI / HTTP / Queue / Cron
+        │
+        ▼
+     emit(intent)
+        │
+        ▼
+   effects / middleware
+        │
+        ▼
+   intent handlers
+        │
+        ▼
+     mutate state
+        │
+        ▼
+computed (derived state) / subscribers
+```
+
+> events → behavior → state → derived state
 
 ---
 
