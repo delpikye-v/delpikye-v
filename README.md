@@ -12,34 +12,7 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Tiny utility library for eventbus.   
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
 - **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
-- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.   
-
-## 🧩 Highlighted
-- **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
-- **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.
-- **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Lightweight, customizable React tooltip component with hover, click, focus and manual trigger support. Built with TypeScript.
-- **[react-lifecycle-z](https://www.npmjs.com/package/react-lifecycle-z)** – Tiny declarative lifecycle hook utilities for React. Mount, update, unmount — expressed clearly.   
-- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
-- **[react-modal-e2z](https://www.npmjs.com/package/react-modal-e2z)** – A lightweight, headless, fully controlled React modal built on portals. Hook-first, composable, SSR-safe.    
-- **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
-- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
-
-## 🧱 Base
-- **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.   
-- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Truncates text with ellipsis and shows tooltip only when content overflows..    
-- **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
-- **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.    
-- **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.      
-- **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.      
-- **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.    
-- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.       
-- **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?      
-- **[react-auto-memo-z](https://www.npmjs.com/package/react-auto-memo-z)** – Automatically apply memo when needed.       
-- **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.       
-
-
-## 🚀 More
-…… [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
 
 ---
 
@@ -50,7 +23,7 @@ This ecosystem keeps **business logic outside React**, fully orchestrated and pr
 > UI renders. Logic orchestrates. Runtime guarantees determinism.
 
 ```text
-React UI
+Frontend/UI
    │
    ▼
 logic-runtime-react-z
@@ -92,6 +65,34 @@ computed (derived state) / subscribers
 > events → behavior → state → derived state
 
 ---
+
+## 🧩 Highlighted
+- **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
+- **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.
+- **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Lightweight, customizable React tooltip component with hover, click, focus and manual trigger support. Built with TypeScript.
+- **[react-lifecycle-z](https://www.npmjs.com/package/react-lifecycle-z)** – Tiny declarative lifecycle hook utilities for React. Mount, update, unmount — expressed clearly.   
+- **[react-animate-z](https://www.npmjs.com/package/react-animate-z)** – Text & block animation components.    
+- **[react-modal-e2z](https://www.npmjs.com/package/react-modal-e2z)** – A lightweight, headless, fully controlled React modal built on portals. Hook-first, composable, SSR-safe.    
+- **[intentium-z](https://www.npmjs.com/package/intentium-z)** – modular framework for intent-driven orchestration, reactive store, effects, and DI-enabled modules.   
+- **[mfe-intentiz](https://www.npmjs.com/package/mfe-intentiz)** – Framework-agnostic micro-frontend runtime (makecolor - testing).
+
+## 🧱 Base
+- **[react-loop-z](https://www.npmjs.com/package/react-loop-z)** – React utility for loops and conditional rendering. Simple, clean, and flexible.   
+- **[rc-tc-ifn](https://www.npmjs.com/package/rc-tc-ifn)** – Truncates text with ellipsis and shows tooltip only when content overflows..    
+- **[react-otp-z](https://www.npmjs.com/package/react-otp-z)** – Lightweight and flexible React OTP input component with full control over UX and behavior.
+- **[react-calendar-z](https://www.npmjs.com/package/react-calendar-z)** – Lightweight React calendar component.    
+- **[react-smooth-scrollbar-z](https://www.npmjs.com/package/react-smooth-scrollbar-z)** – Power, fully for scrollbar.      
+- **[react-perfect-scrollbar-z](https://www.npmjs.com/package/react-perfect-scrollbar-z)** – React wrapper for `perfect-scrollbar`.      
+- **[react-treeview-z](https://www.npmjs.com/package/react-treeview-z)** – Flexible treeview UI library.    
+- **[runtime-intent-z](https://www.npmjs.com/package/runtime-intent-z)** – Intent-first orchestration engine with computed graph and effect pipeline.       
+- **[react-intent-engine-z](https://www.npmjs.com/package/react-intent-engine-z)** – What does the user intend to do, and what should happen next?      
+- **[react-auto-memo-z](https://www.npmjs.com/package/react-auto-memo-z)** – Automatically apply memo when needed.       
+- **[react-loading-z](https://www.npmjs.com/package/react-loading-z)** – Collection and make some loaders.       
+- **[react-slot-engine](https://www.npmjs.com/package/react-slot-engine)** – Lightweight slot & plugin engine for extensible React UI composition.       
+
+## 🚀 More
+…… [my NPM profile →](https://www.npmjs.com/~delpikye) 🚀
+
 
 ## 🚀 Tech Stack & Expertise  
 
