@@ -5,7 +5,7 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 
 ---
 
-## 📌 Highlighted - Framework/Architect
+## 📌 Highlighted - Framework
 - **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.   
 - **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state managemen, async atoms.   
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
@@ -21,6 +21,7 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 This ecosystem keeps **business logic outside React**, fully orchestrated and predictable.
 
 > UI renders. Logic orchestrates. Runtime guarantees determinism.
+> Modular business logic, No reducers. No boilerplate.
 
 ```text
 Frontend/UI
@@ -63,6 +64,10 @@ computed (derived state) / subscribers
 ```
 
 > events → behavior → state → derived state
+
+---
+
+![Architecture diagram](https://raw.githubusercontent.com/delpikye-v/logic-runtime-react/main/architect.png)
 
 ---
 
