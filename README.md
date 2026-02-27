@@ -16,7 +16,12 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 
 ---
 
-## 🧠 Architecture – Frontend
+## 🧠 Architecture – Frontend framework-agnostic
+
+- **[intentx-react](https://www.npmjs.com/package/intentx-react)** – Intent-driven logic adapter for React.
+- **[intentx-svelte](https://www.npmjs.com/package/intentx-svelte)** – Intent-driven logic adapter for Svelte.
+- **[intentx-solid](https://www.npmjs.com/package/intentx-solid)** – Intent-driven logic adapter for SolidJS.
+- **[intentx-runtime](https://www.npmjs.com/package/intentx-runtime)** – Intent-first business logic runtime. Deterministic, headless, and framework-agnostic.
 
 This ecosystem keeps **business logic outside React**, fully orchestrated and predictable.
 
@@ -24,21 +29,14 @@ This ecosystem keeps **business logic outside React**, fully orchestrated and pr
 > Modular business logic, No reducers. No boilerplate.
 
 ```text
-Frontend/UI
+Frontend/UI/Adapter
    │
    ▼
-logic-runtime-react-z
+intentx-runtime
    │
    ▼
-chrono-state-z
-   │
-   ▼
-intentx-core-z
+intentx-core
 ```
-
-- **logic-runtime-react-z** – React bindings layer  
-- **chrono-state-z** – Intent-first state runtime (atoms, computed, async, effects)  
-- **intentx-core-z** – Deterministic reactive scheduler  
 
 ---
 
