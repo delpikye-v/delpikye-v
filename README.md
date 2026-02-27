@@ -65,7 +65,7 @@ computed (derived state) / subscribers
 
 ---
 
-![Architecture diagram](https://raw.githubusercontent.com/delpikye-v/logic-runtime-react/main/architect.png)
+![Architecture diagram](https://raw.githubusercontent.com/delpikye-v/intentx-runtime/main/architect.png)
 
 ---
 
