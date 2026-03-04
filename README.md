@@ -13,7 +13,8 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
 - **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
-
+- **[reaxive-react](https://www.npmjs.com/package/reaxive-react)** - Fine-grained Solid-style reactivity for React 18+
+  
 ---
 
 ## 🧠 Architecture – Frontend framework-agnostic
@@ -29,7 +30,7 @@ This ecosystem keeps **business logic outside React**, fully orchestrated and pr
 > Modular business logic, No reducers. No boilerplate.
 
 ```text
-Frontend/UI/Adapter
+Frontend/Adapter
    │
    ▼
 intentx-runtime
@@ -40,7 +41,7 @@ intentx-core
 
 ---
 
-### 🔄 Intent Flow
+<b> 🔄 Intent Flow </b>
 
 ```text
 UI / HTTP / Queue / Cron
