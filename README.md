@@ -13,7 +13,8 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
 - **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
-- **[intentx-react-router](https://www.npmjs.com/package/intentx-react-router)** - React and TypeScript example starter project
+- **[intentx-react-router](https://www.npmjs.com/package/intentx-react-router)** - Intent-based routing for React. Navigate by intent instead of URLs. (react-router)
+- **[routexiz](https://www.npmjs.com/package/routexiz)** - A modern tree-based router for React with intent-driven navigation, Suspense-first data loading, and built-in guards, middleware, and caching.
   
 ---
 
