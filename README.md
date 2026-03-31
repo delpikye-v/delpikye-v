@@ -9,14 +9,17 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.   
 - **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state managemen, async atoms.   
 - **[routexiz](https://www.npmjs.com/package/routexiz)** - A modern tree-based router for React with intent-driven navigation, Suspense-first data loading, and built-in guards, middleware, and caching.
-- **[railiz](https://www.npmjs.com/package/railiz)** - Lightweight Node.js engine for deterministic, intent-driven domain logic orchestration.   
+- **[railiz](https://www.npmjs.com/package/railiz)** - Lightweight Node.js engine for deterministic, intent-driven domain logic orchestration.
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
-- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Minimal, synchronous, framework-agnostic EventBus alternative for UI signaling, micro-frontends, and TypeScript projects.   
+- **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Minimal, synchronous, framework-agnostic EventBus alternative for UI signaling, micro-frontends, and TypeScript projects.
 - **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
 - **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
 - **[intentx-react-router](https://www.npmjs.com/package/intentx-react-router)** - Intent-based routing for React. Navigate by intent instead of URLs. (react-router)
 - **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
-  
+
+- **[railizator](https://www.npmjs.com/package/railizator)** - Lightweight decorator-based routing & pipeline engine for deterministic, intent-driven Node.js domain logic.
+- **[railiz-serverless](https://www.npmjs.com/package/railiz-serverless)** - Serverless adapter and modular architecture layer for Railiz, enabling lightweight, scalable Node.js backends.
+
 ---
 
 ## 🧠 Architecture – Frontend framework-agnostic
