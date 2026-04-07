@@ -12,13 +12,9 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 - **[railiz](https://www.npmjs.com/package/railiz)** - Lightweight Node.js engine for deterministic, intent-driven domain logic orchestration.
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
 - **[eventbus-z](https://www.npmjs.com/package/eventbus-z)** – Minimal, synchronous, framework-agnostic EventBus alternative for UI signaling, micro-frontends, and TypeScript projects.
-- **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
-- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
-- **[intentx-react-router](https://www.npmjs.com/package/intentx-react-router)** - Intent-based routing for React. Navigate by intent instead of URLs. (react-router)
-- **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
-
 - **[railizator](https://www.npmjs.com/package/railizator)** - Lightweight decorator-based routing & pipeline engine for deterministic, intent-driven Node.js domain logic.
 - **[railiz-serverless](https://www.npmjs.com/package/railiz-serverless)** - Serverless adapter and modular architecture layer for Railiz, enabling lightweight, scalable Node.js backends.
+- **[railpy](https://pypi.org/project/railpy)** - Deterministic high-performance ASGI engine for modern **Python** backends 
 
 ---
 
@@ -76,6 +72,10 @@ computed (derived state) / subscribers
 ---
 
 ## 🧩 Highlighted
+- **[intentx-core-z](https://www.npmjs.com/package/intentx-core-z)** – A fine-grained, intent-driven reactive state runtime for building complex React logic outside components.   
+- **[reactive-query-z](https://www.npmjs.com/package/reactive-query-z)** – is a lightweight, reactive data-fetching library for React.
+- **[intentx-react-router](https://www.npmjs.com/package/intentx-react-router)** - Intent-based routing for React. Navigate by intent instead of URLs. (react-router)
+- **[rsx-z](https://www.npmjs.com/package/rsx-z)** – Minimal atomic CSS-in-JS engine. Deterministic hashing, runtime style execution, and SSR-ready injection.   
 - **[react-if-vz](https://www.npmjs.com/package/react-if-vz)** – Conditional rendering component for React.
 - **[react-event-channel-z](https://www.npmjs.com/package/react-event-channel-z)** – Fully typed React-aware event channel built on top of eventbus-z.
 - **[react-tooltip-z](https://www.npmjs.com/package/react-tooltip-z)** – Lightweight, customizable React tooltip component with hover, click, focus and manual trigger support.   
