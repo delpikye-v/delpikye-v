@@ -6,8 +6,6 @@ With experience in **React, Vue.js, Golang, Python, and cloud-native systems**, 
 ---
 
 ## 📌 Highlighted - Framework
-- **[logic-runtime-react-z](https://www.npmjs.com/package/logic-runtime-react-z)** – Intent-first runtime for React. No hooks. Deterministic state. Orchestrated effects.   
-- **[chrono-state-z](https://www.npmjs.com/package/chrono-state-z)** – Chrono-state-z: Reactive, intent-first state managemen, async atoms.   
 - **[routexiz](https://www.npmjs.com/package/routexiz)** - A modern tree-based router for React with intent-driven navigation, Suspense-first data loading, and built-in guards, middleware, and caching.
 - **[railiz](https://www.npmjs.com/package/railiz)** - Lightweight Node.js engine for deterministic, intent-driven domain logic orchestration.
 - **[react-fast-context-z](https://www.npmjs.com/package/react-fast-context-z)** – Ultra-lightweight, selector-based React state container. No Provider. No reducer. No proxy. No magic.
